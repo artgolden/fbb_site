@@ -6,5 +6,5 @@ type: semester
 
 A list of tasks during semester.
 
-* ## [Task 1]({{ site.baseurl }}/task2/)
+* ## [Task 1]({{ site.baseurl }}/task1/)
 * ## [Task 2]({{ site.baseurl }}/task2/)

@@ -10,8 +10,12 @@ future: true
 title:               Artemiy Polozhintsev
 tagline:             ' educational site'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+# url:                 
+# baseurl:             ''
 url:                 http://kodomo.fbb.msu.ru/~atp_abuser/
-baseurl:             'http://kodomo.fbb.msu.ru/~atp_abuser'
+baseurl:            'http://kodomo.fbb.msu.ru/~atp_abuser'
+
+
 paginate:            5
 
 # About/contact
